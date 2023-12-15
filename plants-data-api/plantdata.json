@@ -1,0 +1,65 @@
+[
+    {
+        "plantId": "p1",
+        "plantName": "Echeveria",
+        "plantDescription": "Echeveria elegans, the Mexican snow ball, Mexican gem or white Mexican rose is a species of flowering plant in the family Crassulaceae, native to semi- desert habitats in Mexico.",
+        "plantPrice": 20,
+        "plantImg": "https://i.postimg.cc/mrvTNGXC/12.png"
+    },
+    {
+        "plantId": "p2",
+        "plantName": "Astrophytum ornatum",
+        "plantDescription": "Astrophytum ornatum, the bishop's cap or monk's hood cactus, is a flowering plant of the family Cactaceae, endemic to the Central Plateau of Mexico.It is the largest and tallest species of Astrophytum.",
+        "plantPrice": 35,
+        "plantImg": "https://i.postimg.cc/y8SLw46L/8.png"
+    },
+    {
+        "plantId": "p3",
+        "plantName": "Zebra haworthia",
+        "plantDescription": "Haworthiopsis attenuata, formerly Haworthia attenuata, commonly known as zebra haworthia, is a small species of succulent plant from the Eastern Cape Province, South Africa.As an ornamental, it is one of the most commonly cultivated of the Haworthiopsis species.",
+        "plantPrice": 35,
+        "plantImg": "https://i.postimg.cc/fRSF7S6q/10.png"
+    },
+    {
+        "plantId": "p4",
+        "plantName": "Mammillaria albilanata",
+        "plantDescription": "Mammillaria albilanata is a species of plant in the family Cactaceae. It is endemic to Mexico. Its natural habitat is hot deserts.",
+        "plantPrice": 35,
+        "plantImg": "https://i.postimg.cc/MKB3vMgW/9.png"
+    },
+    {
+        "plantId": "p5",
+        "plantName": "Capsicum cardenasii",
+        "plantDescription": "Capsicum cardenasii is a plant species in the genus Capsicum and the family Solanaceae. It is a diploid with 2n=2x=24. It is a member within the C.pubescens complex, a group of closely related Capsicum species.",
+        "plantPrice": 25,
+        "plantImg": "https://i.postimg.cc/Mp4n4N3K/15.png"
+    },
+    {
+        "plantId": "p6",
+        "plantName": "Jewel Leaf",
+        "plantDescription": "Graptopetalum amethystinum, also called jewel-leaf plant, is a plant belonging to the succulent genus Graptopetalum. It is native to Mexico.",
+        "plantPrice": 15,
+        "plantImg": "https://i.postimg.cc/cHPTLFJs/16.png"
+    },
+    {
+        "plantId": "p7",
+        "plantName": "Fasciated haworthia",
+        "plantDescription": "Haworthiopsis fasciata, formerly Haworthia fasciata, is a species of succulent plant from the Eastern Cape Province, South Africa. The species is rare in cultivation; most plants that are labelled as H. fasciata are actually Haworthiopsis attenuata.",
+        "plantPrice": 30,
+        "plantImg": "https://i.postimg.cc/593MjvVw/13.png"
+    },
+    {
+        "plantId": "p8",
+        "plantName": "Common houseleek",
+        "plantDescription": "Sempervivum tectorum, the common houseleek,is a species of flowering plant in the family Crassulaceae, native to the mountains of southern Europe, cultivated in the whole of Europe for its appearance and a Roman tradition claiming that it protects buildings against lightning strikes.",
+        "plantPrice": 30,
+        "plantImg": "https://i.postimg.cc/c4kCgPSM/7.png"
+    },
+    {
+        "plantId": "p9",
+        "plantName": "Mammillaria marcosii",
+        "plantDescription": "Mammillaria marcosii is a species of plant in the family Cactaceae. It is endemic to Mexico. Its natural habitat is hot deserts.",
+        "plantPrice": 30,
+        "plantImg": "https://i.postimg.cc/pdZBK2X1/5.png"
+    }
+]
